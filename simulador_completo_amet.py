@@ -159,4 +159,8 @@ if st.button("Calcular Comparación"):
 
 # ---------- Cierre institucional ----------
 st.markdown("<h4 style='text-align: center; margin-top: 30px;'>AMET Tierra del Fuego – Regional XXIV</h4>", unsafe_allow_html=True)
-st.image(logo_oficial, width=140)
+st.markdown(
+    "<div style='text-align: center;'><img src='logo_amet.png' width='140'></div>",
+    unsafe_allow_html=True
+)
+
