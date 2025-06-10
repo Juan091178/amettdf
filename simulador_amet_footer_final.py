@@ -210,12 +210,12 @@ if st.button("Calcular Comparación"):
 st.markdown("""
 <div style='display: flex; justify-content: space-between; align-items: center; margin-top: 30px;'>
     <div style='flex: 1;'>
-        <img src='https://raw.githubusercontent.com/amet-tierra-del-fuego/assets/main/logo_amet.png' width='140'>
-    </div>
-    <div style='flex: 2; text-align: right; font-size: 16px;'>
-        <p><strong>AMET TDF: la voz que no negocia la dignidad docente.</strong></p>
-        <p style='margin-top: -10px;'>Una gestión que defiende, una organización que crece</p>
-        <p><strong>AMET TDF</strong></p>
-    </div>
-</div>
-""", unsafe_allow_html=True)
+        col1, col2 = st.columns([1, 3])
+
+with col1:
+    st.image(logo_oficial, width=120)
+
+with col2:
+    st.markdown("**AMET TDF: la voz que no negocia la dignidad docente.**")
+    st.markdown("Una gestión que defiende, una organización que crece")
+    st.markdown("**AMET TDF**")
