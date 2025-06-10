@@ -207,10 +207,7 @@ if st.button("Calcular Comparación"):
     st.markdown(f"**5. Diferencia real (Mayo - Abril):** ${diferencia_real:,.2f}")
 
 
-st.markdown("""
-<div style='display: flex; justify-content: space-between; align-items: center; margin-top: 30px;'>
-    <div style='flex: 1;'>
-        col1, col2 = st.columns([1, 3])
+col1, col2 = st.columns([1, 3])
 
 with col1:
     st.image(logo_oficial, width=120)
