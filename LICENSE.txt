@@ -1,0 +1,27 @@
+
+LICENCIA DE USO – AMET TDF
+
+Copyright (c) 2025 AMET Tierra del Fuego – Regional XXIV
+
+Este software ha sido desarrollado por AMET Tierra del Fuego con el objetivo de brindar una herramienta técnica y pedagógica para el análisis salarial docente.
+
+### DERECHOS DE USO
+
+✔️ El uso de este software es **libre y gratuito** exclusivamente para:
+- AMET Nacional
+- Todas las Regionales de AMET en la República Argentina
+
+❌ Para cualquier otra organización, entidad, gremio o usuario externo:
+- El uso, reproducción, redistribución, adaptación o modificación del presente software **requiere autorización expresa y por escrito** de los administradores de AMET TDF.
+- Para adquirir los derechos de uso o licencias comerciales, deberán contactar a **amettdf@gmail.com**.
+
+### CONDICIONES GENERALES
+
+- El logo, el lema, y las marcas institucionales de AMET TDF **no podrán ser eliminados ni reemplazados**.
+- Cualquier modificación no autorizada se considerará una violación de esta licencia.
+
+Este software se proporciona “TAL CUAL”, sin garantía de ningún tipo, expresa o implícita.
+
+---
+
+**Versión oficial registrada por AMET Tierra del Fuego – Regional XXIV**
