@@ -111,7 +111,7 @@ def calcular_total(cargos, cantidades, vi, puntajes_dict, descuentos, antiguedad
             basico_jerarquico += basico_parcial
     adicional_jerarquico_total = basico_jerarquico * 0.30
 
-        codigo = cargo.split(" - ")[0].strip()
+    codigo = cargo.split(" - ")[0].strip()
         descripcion = cargo.lower()
         if "hora" in descripcion and (
             (codigo.startswith("3") or codigo.startswith("4")) and
